@@ -1,4 +1,4 @@
-### File structures and explanation:
+<!-- ### File structures and explanation:
 
 ./ <span style="color: rgba(0, 0, 0, 0.3)"> <------ project file: MDS5122-DL-HW1</span>
 ├── data/ </small> <span style="color: rgba(0, 0, 0, 0.3)"><------ cifar-10 and mnist for task A and B</span>
@@ -29,4 +29,6 @@
 │   ├── res50/
 │   └── vgg16/
 └── texfile/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ LaTeX file</span>
-    └── fig/
+    └── fig/ -->
+
+![图片描述](README.png)
