@@ -1,0 +1,15 @@
+{
+  "id": "xgy2718/dezero-c5l4-test",
+  "title": "dezero C5L4 test",
+  "code_file": "./dlhw1_train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["xgy2718/dezero"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

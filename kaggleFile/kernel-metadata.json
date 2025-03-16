@@ -1,0 +1,15 @@
+{
+  "id": "uphillroad/dl-res18-mnist",
+  "title": "dl res18 mnist",
+  "code_file": "./main_res18_mnist.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["uphillroad/cifar-10-dlhw1-2", "uphillroad/mymodels"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,168 @@
+[{"stream_name":"stdout","time":17.786932375,"data":"successfully load all pac\n"}
+,{"stream_name":"stdout","time":22.386777793,"data":"Files already downloaded and verified\n"}
+,{"stream_name":"stdout","time":23.393763974,"data":"Files already downloaded and verified\n"}
+,{"stream_name":"stdout","time":23.745188791,"data":"successfully load all pac\n"}
+,{"stream_name":"stdout","time":56.568411559,"data":"Epchs: 1, train loss: 20.19, test loss: 3.14, test Accuracy: 54.48%\n"}
+,{"stream_name":"stdout","time":87.341771348,"data":"Epchs: 2, train loss: 15.44, test loss: 2.68, test Accuracy: 62.36%\n"}
+,{"stream_name":"stdout","time":117.905930715,"data":"Epchs: 3, train loss: 13.35, test loss: 2.31, test Accuracy: 67.59%\n"}
+,{"stream_name":"stdout","time":148.752817755,"data":"Epchs: 4, train loss: 11.94, test loss: 2.19, test Accuracy: 68.83%\n"}
+,{"stream_name":"stdout","time":179.04353537,"data":"Epchs: 5, train loss: 10.91, test loss: 2.04, test Accuracy: 71.75%\n"}
+,{"stream_name":"stdout","time":208.872124906,"data":"Epchs: 6, train loss: 10.20, test loss: 1.77, test Accuracy: 75.80%\n"}
+,{"stream_name":"stdout","time":238.671698785,"data":"Epchs: 7, train loss: 9.54, test loss: 1.83, test Accuracy: 75.24%\n"}
+,{"stream_name":"stdout","time":268.968540166,"data":"Epchs: 8, train loss: 9.08, test loss: 1.63, test Accuracy: 77.99%\n"}
+,{"stream_name":"stdout","time":299.110315394,"data":"Epchs: 9, train loss: 8.53, test loss: 1.56, test Accuracy: 79.03%\n"}
+,{"stream_name":"stdout","time":329.588744319,"data":"Epchs: 10, train loss: 8.05, test loss: 1.48, test Accuracy: 80.14%\n"}
+,{"stream_name":"stdout","time":359.55207957,"data":"Epchs: 11, train loss: 7.79, test loss: 1.41, test Accuracy: 80.95%\n"}
+,{"stream_name":"stdout","time":389.854656363,"data":"Epchs: 12, train loss: 7.44, test loss: 1.43, test Accuracy: 80.70%\n"}
+,{"stream_name":"stdout","time":420.004531671,"data":"Epchs: 13, train loss: 7.10, test loss: 1.34, test Accuracy: 81.72%\n"}
+,{"stream_name":"stdout","time":450.055347244,"data":"Epchs: 14, train loss: 6.86, test loss: 1.38, test Accuracy: 81.25%\n"}
+,{"stream_name":"stdout","time":481.247730608,"data":"Epchs: 15, train loss: 6.66, test loss: 1.37, test Accuracy: 81.74%\n"}
+,{"stream_name":"stdout","time":510.956843174,"data":"Epchs: 16, train loss: 6.45, test loss: 1.33, test Accuracy: 82.47%\n"}
+,{"stream_name":"stdout","time":541.259484462,"data":"Epchs: 17, train loss: 6.22, test loss: 1.28, test Accuracy: 83.40%\n"}
+,{"stream_name":"stdout","time":571.517523543,"data":"Epchs: 18, train loss: 6.02, test loss: 1.22, test Accuracy: 83.36%\n"}
+,{"stream_name":"stdout","time":601.466707375,"data":"Epchs: 19, train loss: 5.83, test loss: 1.19, test Accuracy: 83.85%\n"}
+,{"stream_name":"stdout","time":631.083210662,"data":"Epchs: 20, train loss: 5.58, test loss: 1.19, test Accuracy: 84.42%\n"}
+,{"stream_name":"stdout","time":660.366376243,"data":"Epchs: 21, train loss: 5.47, test loss: 1.13, test Accuracy: 84.60%\n"}
+,{"stream_name":"stdout","time":689.983836027,"data":"Epchs: 22, train loss: 5.23, test loss: 1.10, test Accuracy: 85.58%\n"}
+,{"stream_name":"stdout","time":719.374273746,"data":"Epchs: 23, train loss: 5.08, test loss: 1.23, test Accuracy: 84.38%\n"}
+,{"stream_name":"stdout","time":748.811971819,"data":"Epchs: 24, train loss: 4.96, test loss: 1.10, test Accuracy: 85.70%\n"}
+,{"stream_name":"stdout","time":778.037729531,"data":"Epchs: 25, train loss: 4.80, test loss: 1.09, test Accuracy: 85.83%\n"}
+,{"stream_name":"stdout","time":807.485055285,"data":"Epchs: 26, train loss: 4.62, test loss: 1.06, test Accuracy: 85.99%\n"}
+,{"stream_name":"stdout","time":836.946698105,"data":"Epchs: 27, train loss: 4.52, test loss: 1.12, test Accuracy: 85.56%\n"}
+,{"stream_name":"stdout","time":867.005360146,"data":"Epchs: 28, train loss: 4.32, test loss: 1.12, test Accuracy: 85.82%\n"}
+,{"stream_name":"stdout","time":897.576492621,"data":"Epchs: 29, train loss: 4.26, test loss: 1.08, test Accuracy: 85.86%\n"}
+,{"stream_name":"stdout","time":927.763682769,"data":"Epchs: 30, train loss: 4.15, test loss: 1.13, test Accuracy: 86.04%\n"}
+,{"stream_name":"stdout","time":957.493325123,"data":"Epchs: 31, train loss: 4.03, test loss: 1.10, test Accuracy: 86.12%\n"}
+,{"stream_name":"stdout","time":986.962981138,"data":"Epchs: 32, train loss: 3.92, test loss: 1.08, test Accuracy: 86.41%\n"}
+,{"stream_name":"stdout","time":1016.629262973,"data":"Epchs: 33, train loss: 3.80, test loss: 1.06, test Accuracy: 86.94%\n"}
+,{"stream_name":"stdout","time":1046.126225144,"data":"Epchs: 34, train loss: 3.79, test loss: 1.05, test Accuracy: 87.01%\n"}
+,{"stream_name":"stdout","time":1075.550646695,"data":"Epchs: 35, train loss: 3.63, test loss: 1.07, test Accuracy: 86.70%\n"}
+,{"stream_name":"stdout","time":1104.802311896,"data":"Epchs: 36, train loss: 3.51, test loss: 1.06, test Accuracy: 87.01%\n"}
+,{"stream_name":"stdout","time":1134.275412279,"data":"Epchs: 37, train loss: 3.41, test loss: 1.15, test Accuracy: 86.22%\n"}
+,{"stream_name":"stdout","time":1163.62180443,"data":"Epchs: 38, train loss: 3.37, test loss: 1.03, test Accuracy: 87.61%\n"}
+,{"stream_name":"stdout","time":1193.070429364,"data":"Epchs: 39, train loss: 3.25, test loss: 1.11, test Accuracy: 86.93%\n"}
+,{"stream_name":"stdout","time":1222.693571076,"data":"Epchs: 40, train loss: 3.10, test loss: 1.03, test Accuracy: 87.76%\n"}
+,{"stream_name":"stdout","time":1252.422128931,"data":"Epchs: 41, train loss: 3.08, test loss: 1.05, test Accuracy: 87.69%\n"}
+,{"stream_name":"stdout","time":1281.715859248,"data":"Epchs: 42, train loss: 2.99, test loss: 1.05, test Accuracy: 87.13%\n"}
+,{"stream_name":"stdout","time":1311.354789569,"data":"Epchs: 43, train loss: 2.94, test loss: 1.03, test Accuracy: 87.68%\n"}
+,{"stream_name":"stdout","time":1340.58807056,"data":"Epchs: 44, train loss: 2.89, test loss: 1.02, test Accuracy: 87.79%\n"}
+,{"stream_name":"stdout","time":1369.795348345,"data":"Epchs: 45, train loss: 2.82, test loss: 1.03, test Accuracy: 87.87%\n"}
+,{"stream_name":"stdout","time":1399.067009857,"data":"Epchs: 46, train loss: 2.67, test loss: 1.09, test Accuracy: 87.49%\n"}
+,{"stream_name":"stdout","time":1428.242764915,"data":"Epchs: 47, train loss: 2.64, test loss: 1.05, test Accuracy: 87.86%\n"}
+,{"stream_name":"stdout","time":1457.437730842,"data":"Epchs: 48, train loss: 2.54, test loss: 1.08, test Accuracy: 87.03%\n"}
+,{"stream_name":"stdout","time":1486.73684909,"data":"Epchs: 49, train loss: 2.50, test loss: 1.06, test Accuracy: 88.12%\n"}
+,{"stream_name":"stdout","time":1516.070419598,"data":"Epchs: 50, train loss: 2.41, test loss: 1.07, test Accuracy: 87.83%\n"}
+,{"stream_name":"stdout","time":1545.35355494,"data":"Epchs: 51, train loss: 2.41, test loss: 1.11, test Accuracy: 87.61%\n"}
+,{"stream_name":"stdout","time":1574.74807602,"data":"Epchs: 52, train loss: 2.38, test loss: 1.08, test Accuracy: 87.64%\n"}
+,{"stream_name":"stdout","time":1603.759993978,"data":"Epchs: 53, train loss: 2.25, test loss: 1.02, test Accuracy: 88.15%\n"}
+,{"stream_name":"stdout","time":1632.781477274,"data":"Epchs: 54, train loss: 2.24, test loss: 1.06, test Accuracy: 88.01%\n"}
+,{"stream_name":"stdout","time":1662.003158237,"data":"Epchs: 55, train loss: 2.16, test loss: 1.09, test Accuracy: 88.10%\n"}
+,{"stream_name":"stdout","time":1692.266531374,"data":"Epchs: 56, train loss: 2.09, test loss: 1.03, test Accuracy: 88.13%\n"}
+,{"stream_name":"stdout","time":1721.801071869,"data":"Epchs: 57, train loss: 2.07, test loss: 1.06, test Accuracy: 87.94%\n"}
+,{"stream_name":"stdout","time":1751.723525871,"data":"Epchs: 58, train loss: 2.03, test loss: 1.00, test Accuracy: 88.69%\n"}
+,{"stream_name":"stdout","time":1781.296950645,"data":"Epchs: 59, train loss: 2.04, test loss: 1.09, test Accuracy: 88.42%\n"}
+,{"stream_name":"stdout","time":1811.139309789,"data":"Epchs: 60, train loss: 1.93, test loss: 1.15, test Accuracy: 88.18%\n"}
+,{"stream_name":"stdout","time":1840.66515251,"data":"Epchs: 61, train loss: 1.86, test loss: 1.13, test Accuracy: 87.43%\n"}
+,{"stream_name":"stdout","time":1869.515141211,"data":"Epchs: 62, train loss: 1.84, test loss: 1.15, test Accuracy: 88.08%\n"}
+,{"stream_name":"stdout","time":1898.787506153,"data":"Epchs: 63, train loss: 1.80, test loss: 1.11, test Accuracy: 88.10%\n"}
+,{"stream_name":"stdout","time":1927.941229886,"data":"Epchs: 64, train loss: 1.75, test loss: 1.14, test Accuracy: 87.74%\n"}
+,{"stream_name":"stdout","time":1956.967065928,"data":"Epchs: 65, train loss: 1.74, test loss: 1.12, test Accuracy: 87.92%\n"}
+,{"stream_name":"stdout","time":1987.067453232,"data":"Epchs: 66, train loss: 1.70, test loss: 1.10, test Accuracy: 88.37%\n"}
+,{"stream_name":"stdout","time":2016.657349793,"data":"Epchs: 67, train loss: 1.67, test loss: 1.10, test Accuracy: 87.96%\n"}
+,{"stream_name":"stdout","time":2046.472682873,"data":"Epchs: 68, train loss: 1.64, test loss: 1.09, test Accuracy: 88.66%\n"}
+,{"stream_name":"stdout","time":2075.558983924,"data":"Epchs: 69, train loss: 1.61, test loss: 1.14, test Accuracy: 88.18%\n"}
+,{"stream_name":"stdout","time":2104.975562705,"data":"Epchs: 70, train loss: 1.59, test loss: 1.15, test Accuracy: 87.93%\n"}
+,{"stream_name":"stdout","time":2134.478753529,"data":"Epchs: 71, train loss: 1.57, test loss: 1.14, test Accuracy: 87.76%\n"}
+,{"stream_name":"stdout","time":2163.79229232,"data":"Epchs: 72, train loss: 1.50, test loss: 1.16, test Accuracy: 88.65%\n"}
+,{"stream_name":"stdout","time":2192.890858618,"data":"Epchs: 73, train loss: 1.57, test loss: 1.16, test Accuracy: 88.19%\n"}
+,{"stream_name":"stdout","time":2222.036186293,"data":"Epchs: 74, train loss: 1.45, test loss: 1.08, test Accuracy: 88.38%\n"}
+,{"stream_name":"stdout","time":2251.083138985,"data":"Epchs: 75, train loss: 1.43, test loss: 1.09, test Accuracy: 88.41%\n"}
+,{"stream_name":"stdout","time":2280.302589208,"data":"Epchs: 76, train loss: 1.43, test loss: 1.08, test Accuracy: 88.51%\n"}
+,{"stream_name":"stdout","time":2309.645166359,"data":"Epchs: 77, train loss: 1.39, test loss: 1.21, test Accuracy: 88.03%\n"}
+,{"stream_name":"stdout","time":2338.693968283,"data":"Epchs: 78, train loss: 1.33, test loss: 1.11, test Accuracy: 88.77%\n"}
+,{"stream_name":"stdout","time":2367.434805567,"data":"Epchs: 79, train loss: 1.35, test loss: 1.15, test Accuracy: 88.21%\n"}
+,{"stream_name":"stdout","time":2396.426318526,"data":"Epchs: 80, train loss: 1.37, test loss: 1.19, test Accuracy: 88.27%\n"}
+,{"stream_name":"stdout","time":2425.971540326,"data":"Epchs: 81, train loss: 1.28, test loss: 1.19, test Accuracy: 88.01%\n"}
+,{"stream_name":"stdout","time":2455.214767941,"data":"Epchs: 82, train loss: 1.28, test loss: 1.14, test Accuracy: 88.60%\n"}
+,{"stream_name":"stdout","time":2484.121877254,"data":"Epchs: 83, train loss: 1.27, test loss: 1.12, test Accuracy: 88.83%\n"}
+,{"stream_name":"stdout","time":2513.066022288,"data":"Epchs: 84, train loss: 1.25, test loss: 1.20, test Accuracy: 88.36%\n"}
+,{"stream_name":"stdout","time":2542.339474213,"data":"Epchs: 85, train loss: 1.24, test loss: 1.19, test Accuracy: 88.30%\n"}
+,{"stream_name":"stdout","time":2571.526824712,"data":"Epchs: 86, train loss: 1.18, test loss: 1.22, test Accuracy: 88.19%\n"}
+,{"stream_name":"stdout","time":2601.110113044,"data":"Epchs: 87, train loss: 1.14, test loss: 1.12, test Accuracy: 88.75%\n"}
+,{"stream_name":"stdout","time":2630.36495405,"data":"Epchs: 88, train loss: 1.14, test loss: 1.20, test Accuracy: 88.69%\n"}
+,{"stream_name":"stdout","time":2659.298887466,"data":"Epchs: 89, train loss: 1.19, test loss: 1.28, test Accuracy: 87.69%\n"}
+,{"stream_name":"stdout","time":2688.440248939,"data":"Epchs: 90, train loss: 1.17, test loss: 1.22, test Accuracy: 87.66%\n"}
+,{"stream_name":"stdout","time":2717.369845412,"data":"Epchs: 91, train loss: 1.09, test loss: 1.20, test Accuracy: 88.72%\n"}
+,{"stream_name":"stdout","time":2746.576099284,"data":"Epchs: 92, train loss: 1.19, test loss: 1.24, test Accuracy: 88.27%\n"}
+,{"stream_name":"stdout","time":2775.817662516,"data":"Epchs: 93, train loss: 1.08, test loss: 1.22, test Accuracy: 88.61%\n"}
+,{"stream_name":"stdout","time":2805.046040923,"data":"Epchs: 94, train loss: 1.07, test loss: 1.18, test Accuracy: 88.24%\n"}
+,{"stream_name":"stdout","time":2834.158150991,"data":"Epchs: 95, train loss: 1.07, test loss: 1.14, test Accuracy: 88.45%\n"}
+,{"stream_name":"stdout","time":2863.270117568,"data":"Epchs: 96, train loss: 1.03, test loss: 1.28, test Accuracy: 88.03%\n"}
+,{"stream_name":"stdout","time":2892.398176159,"data":"Epchs: 97, train loss: 1.06, test loss: 1.23, test Accuracy: 88.61%\n"}
+,{"stream_name":"stdout","time":2921.603010343,"data":"Epchs: 98, train loss: 1.02, test loss: 1.19, test Accuracy: 88.15%\n"}
+,{"stream_name":"stdout","time":2950.984653992,"data":"Epchs: 99, train loss: 1.00, test loss: 1.25, test Accuracy: 88.36%\n"}
+,{"stream_name":"stdout","time":2980.001754797,"data":"Epchs: 100, train loss: 1.00, test loss: 1.27, test Accuracy: 88.71%\n"}
+,{"stream_name":"stdout","time":3009.033403655,"data":"Epchs: 101, train loss: 1.01, test loss: 1.27, test Accuracy: 88.65%\n"}
+,{"stream_name":"stdout","time":3037.699400542,"data":"Epchs: 102, train loss: 0.96, test loss: 1.20, test Accuracy: 88.87%\n"}
+,{"stream_name":"stdout","time":3066.924657946,"data":"Epchs: 103, train loss: 0.95, test loss: 1.33, test Accuracy: 88.15%\n"}
+,{"stream_name":"stdout","time":3097.053765794,"data":"Epchs: 104, train loss: 0.98, test loss: 1.22, test Accuracy: 88.85%\n"}
+,{"stream_name":"stdout","time":3126.13649259,"data":"Epchs: 105, train loss: 0.92, test loss: 1.25, test Accuracy: 88.42%\n"}
+,{"stream_name":"stdout","time":3155.342754324,"data":"Epchs: 106, train loss: 0.91, test loss: 1.26, test Accuracy: 88.56%\n"}
+,{"stream_name":"stdout","time":3184.60968691,"data":"Epchs: 107, train loss: 0.92, test loss: 1.22, test Accuracy: 88.35%\n"}
+,{"stream_name":"stdout","time":3213.529710156,"data":"Epchs: 108, train loss: 0.93, test loss: 1.20, test Accuracy: 88.43%\n"}
+,{"stream_name":"stdout","time":3242.622667268,"data":"Epchs: 109, train loss: 0.89, test loss: 1.19, test Accuracy: 88.49%\n"}
+,{"stream_name":"stdout","time":3271.647163027,"data":"Epchs: 110, train loss: 0.91, test loss: 1.24, test Accuracy: 88.41%\n"}
+,{"stream_name":"stdout","time":3300.783593909,"data":"Epchs: 111, train loss: 0.93, test loss: 1.32, test Accuracy: 87.79%\n"}
+,{"stream_name":"stdout","time":3329.444657018,"data":"Epchs: 112, train loss: 0.90, test loss: 1.19, test Accuracy: 88.63%\n"}
+,{"stream_name":"stdout","time":3358.219752796,"data":"Epchs: 113, train loss: 0.88, test loss: 1.26, test Accuracy: 87.83%\n"}
+,{"stream_name":"stdout","time":3387.363840715,"data":"Epchs: 114, train loss: 0.84, test loss: 1.18, test Accuracy: 89.23%\n"}
+,{"stream_name":"stdout","time":3416.332121212,"data":"Epchs: 115, train loss: 0.84, test loss: 1.27, test Accuracy: 88.67%\n"}
+,{"stream_name":"stdout","time":3445.321809616,"data":"Epchs: 116, train loss: 0.81, test loss: 1.29, test Accuracy: 88.44%\n"}
+,{"stream_name":"stdout","time":3474.301944179,"data":"Epchs: 117, train loss: 0.85, test loss: 1.19, test Accuracy: 88.93%\n"}
+,{"stream_name":"stdout","time":3503.391930294,"data":"Epchs: 118, train loss: 0.78, test loss: 1.21, test Accuracy: 89.31%\n"}
+,{"stream_name":"stdout","time":3532.581018673,"data":"Epchs: 119, train loss: 0.87, test loss: 1.27, test Accuracy: 88.07%\n"}
+,{"stream_name":"stdout","time":3561.419333283,"data":"Epchs: 120, train loss: 0.82, test loss: 1.30, test Accuracy: 88.64%\n"}
+,{"stream_name":"stdout","time":3590.49003336,"data":"Epchs: 121, train loss: 0.82, test loss: 1.26, test Accuracy: 88.81%\n"}
+,{"stream_name":"stdout","time":3619.596024425,"data":"Epchs: 122, train loss: 0.82, test loss: 1.25, test Accuracy: 88.50%\n"}
+,{"stream_name":"stdout","time":3648.679441342,"data":"Epchs: 123, train loss: 0.77, test loss: 1.20, test Accuracy: 88.71%\n"}
+,{"stream_name":"stdout","time":3677.762320622,"data":"Epchs: 124, train loss: 0.83, test loss: 1.30, test Accuracy: 88.58%\n"}
+,{"stream_name":"stdout","time":3706.752575492,"data":"Epchs: 125, train loss: 0.76, test loss: 1.41, test Accuracy: 87.92%\n"}
+,{"stream_name":"stdout","time":3735.95877221,"data":"Epchs: 126, train loss: 0.77, test loss: 1.25, test Accuracy: 88.45%\n"}
+,{"stream_name":"stdout","time":3765.1522437,"data":"Epchs: 127, train loss: 0.79, test loss: 1.27, test Accuracy: 88.55%\n"}
+,{"stream_name":"stdout","time":3794.312574857,"data":"Epchs: 128, train loss: 0.77, test loss: 1.24, test Accuracy: 88.84%\n"}
+,{"stream_name":"stdout","time":3823.615875732,"data":"Epchs: 129, train loss: 0.77, test loss: 1.25, test Accuracy: 88.74%\n"}
+,{"stream_name":"stdout","time":3852.986880497,"data":"Epchs: 130, train loss: 0.76, test loss: 1.29, test Accuracy: 88.99%\n"}
+,{"stream_name":"stdout","time":3882.35839561,"data":"Epchs: 131, train loss: 0.72, test loss: 1.28, test Accuracy: 88.24%\n"}
+,{"stream_name":"stdout","time":3911.982727686,"data":"Epchs: 132, train loss: 0.73, test loss: 1.34, test Accuracy: 88.54%\n"}
+,{"stream_name":"stdout","time":3941.349854433,"data":"Epchs: 133, train loss: 0.71, test loss: 1.37, test Accuracy: 88.60%\n"}
+,{"stream_name":"stdout","time":3970.561413368,"data":"Epchs: 134, train loss: 0.71, test loss: 1.24, test Accuracy: 88.69%\n"}
+,{"stream_name":"stdout","time":3999.778563724,"data":"Epchs: 135, train loss: 0.70, test loss: 1.30, test Accuracy: 88.83%\n"}
+,{"stream_name":"stdout","time":4028.783825497,"data":"Epchs: 136, train loss: 0.69, test loss: 1.38, test Accuracy: 88.28%\n"}
+,{"stream_name":"stdout","time":4057.956244968,"data":"Epchs: 137, train loss: 0.68, test loss: 1.33, test Accuracy: 88.86%\n"}
+,{"stream_name":"stdout","time":4087.277501148,"data":"Epchs: 138, train loss: 0.69, test loss: 1.31, test Accuracy: 88.68%\n"}
+,{"stream_name":"stdout","time":4117.197701425,"data":"Epchs: 139, train loss: 0.70, test loss: 1.29, test Accuracy: 88.59%\n"}
+,{"stream_name":"stdout","time":4146.748041531,"data":"Epchs: 140, train loss: 0.66, test loss: 1.34, test Accuracy: 88.39%\n"}
+,{"stream_name":"stdout","time":4176.188023678,"data":"Epchs: 141, train loss: 0.68, test loss: 1.27, test Accuracy: 88.79%\n"}
+,{"stream_name":"stdout","time":4205.302395838,"data":"Epchs: 142, train loss: 0.66, test loss: 1.25, test Accuracy: 89.22%\n"}
+,{"stream_name":"stdout","time":4234.793673947,"data":"Epchs: 143, train loss: 0.63, test loss: 1.38, test Accuracy: 88.47%\n"}
+,{"stream_name":"stdout","time":4264.168492495,"data":"Epchs: 144, train loss: 0.68, test loss: 1.30, test Accuracy: 88.83%\n"}
+,{"stream_name":"stdout","time":4293.249076883,"data":"Epchs: 145, train loss: 0.72, test loss: 1.19, test Accuracy: 89.13%\n"}
+,{"stream_name":"stdout","time":4322.370975417,"data":"Epchs: 146, train loss: 0.69, test loss: 1.31, test Accuracy: 88.69%\n"}
+,{"stream_name":"stdout","time":4351.363444948,"data":"Epchs: 147, train loss: 0.63, test loss: 1.26, test Accuracy: 88.61%\n"}
+,{"stream_name":"stdout","time":4380.170940841,"data":"Epchs: 148, train loss: 0.62, test loss: 1.29, test Accuracy: 89.26%\n"}
+,{"stream_name":"stdout","time":4409.205415126,"data":"Epchs: 149, train loss: 0.64, test loss: 1.38, test Accuracy: 88.89%\n"}
+,{"stream_name":"stdout","time":4438.442657393,"data":"Epchs: 150, train loss: 0.68, test loss: 1.28, test Accuracy: 89.11%\n"}
+,{"stream_name":"stdout","time":4438.442693679,"data":"Finished Training\n"}
+,{"stream_name":"stderr","time":4438.554877862,"data":"\u003cipython-input-2-e80770326886\u003e:233: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.\n"}
+,{"stream_name":"stderr","time":4438.554944073,"data":"  plt.tight_layout()\n"}
+,{"stream_name":"stderr","time":4443.941514422,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":4443.941548966,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":4443.972966261,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":4444.274511128,"data":"[NbConvertApp] Writing 136304 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":4445.538511697,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":4445.538566705,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":4445.571182073,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":4446.345946401,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":4446.345974342,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":4446.346371833,"data":"[NbConvertApp] Writing 345245 bytes to __results__.html\n"}
+]
