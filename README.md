@@ -1,21 +1,22 @@
-<!-- ### File structures and explanation:
+### File structures and explanation:
 
-./ <span style="color: rgba(0, 0, 0, 0.3)"> <------ project file: MDS5122-DL-HW1</span>
-├── data/ </small> <span style="color: rgba(0, 0, 0, 0.3)"><------ cifar-10 and mnist for task A and B</span>
+```text
+./                                     # Project root: MDS5122-DL-HW1
+├── data/                             # CIFAR-10 and MNIST for Task A/B
 │   ├── cifar-10-batches-py/
 │   └── MNIST/
 │       └── raw/
-├── dezero-master/ <span style="color: rgba(0, 0, 0, 0.3)"><------code for Task B</span>
-│   └── dezero/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ self-made framwork source code</span>
-│       ├── MNISTdataset/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ MNIST dataset for Task B, same in ../data</span>
+├── dezero-master/                    # Code for Task B
+│   └── dezero/                      # Self-made framework source code
+│       ├── MNISTdataset/            # MNIST dataset (same as ../data)
 │       │   └── __pycache__/
 │       └── __pycache__/
-├── kaggleFile/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ Training codes for Task A, contains .ipynb for kaggle</span>
-│   └── code/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ model scource code</span>
+├── kaggleFile/                       # Training codes for Task A (.ipynb)
+│   └── code/                        # Model source code
 │       └── mymodels/
 │           └── __pycache__/
-├── kaggleOutput/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ outputs from kaggle of different experiment</span>
-│   ├── bsln-1/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ one file for each experiment</span>
+├── kaggleOutput/                     # Kaggle experiment outputs
+│   ├── bsln-1/                      # One directory per experiment
 │   ├── bsln-2/
 │   ├── bsln-3/
 │   ├── bsln-4/
@@ -28,7 +29,8 @@
 │   ├── res18-mnist/
 │   ├── res50/
 │   └── vgg16/
-└── texfile/ <span style="color: rgba(0, 0, 0, 0.3)"> <------ LaTeX file</span>
-    └── fig/ -->
+└── texfile/                          # LaTeX files
+    └── fig/
+```
 
-![图片描述](README.png)
+<!-- ![图片描述](README.png) -->

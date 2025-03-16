@@ -3,7 +3,7 @@
 \usepackage{hyperref}
 
 \usepackage[english]{babel}
-\usepackage{latexsym,bm,amsmath,amssymb,graphicx,ctex,tikz,systeme,array, soul,scalerel,wrapfig,lipsum, float}
+\usepackage{latexsym,bm,amsmath,amssymb,graphicx,ctex,tikz,systeme,array, soul,scalerel,wrapfig,lipsum, float, url}
 \newcommand*\circled[1]{\tikz[baseline=(char.base)]{
             \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
 \usepackage{extarrows}% http://ctan.org/pkg/extarrows
@@ -106,11 +106,12 @@
    Guyuan Xu &\href{mailto:224040074@link.cuhk.edu.cn}{224040074} \\
     
 %
-\end{tabular}
-
+\end{tabular}\\
+\textcolor{blue}{All files and source code available at:} \url{https://github.com/xuguy/MDS5122-DL-HW-1}
 \secs{A. Build a Neural Network Using PyTorch}
 \subs{1. reproducing example NeuralNetwork of example code A.}
-\textcolor{blue}{Results are summaried in subsection 2.2 together with other settings, codes check notebook}
+
+\noindent\textcolor{blue}{Results are summaried in subsection 2.2 together with other settings}
 
 \subs{2. Factors to improve accuracy}
 In my experiment, I tried to use 1) Simple NN structure(which is the baseline model of example code A) and NN with more complex architecture (vgg16 and ResNet18/50); 2) adding BatchNorm layer and dropout layer; 3) different optimziers SGD and Adam with popular \textit{lr} or momentum params settings; 4) with/without data augmentation. \\
@@ -128,6 +129,7 @@ All training codes are packed in files located in \texttt{./kaggleFile}, what ar
   \item All files start with \texttt{main\_} are training files
   \item if not specify explicitly in file name, models are trained in CIFAR-10 dataset.
   \item \texttt{main\_bsln\_4} means "baseline model" with setting number 4 on CIFAR-10, \texttt{main\_res18} means "ResNet18" model on CIFAR-10 
+  \item \texttt{./kaggleFile/code/mymodels/models.py} contains model source codes, including basline model and deeper neural network like \texttt{vgg16, ResNet}.
   \item change "code\_file" in \texttt{./kaggleFile/kernel-metadata.json} to the file name you want to run. Then push it to kaggle. \textcolor{red}{All training results/weights, including visualization of train/test loss and test accuracy will be saved to /kaggle/output automatically.}
 \end{itemize}
 
@@ -237,7 +239,7 @@ All training codes are packed in files located in \texttt{./kaggleFile}, what ar
 % \begin{center}
 %   \includegraphics[width=0.8\textwidth]{fig/augmented.png} % 设定图片宽度为文本宽度的80%
 % \end{center}
-\begin{figure}[htbp]
+\begin{figure}[H]
   \centering
   \includegraphics[width=0.45\textwidth]{fig/original.png} % 设定图片宽度
   \includegraphics[width=0.45\textwidth]{fig/augmented.png} % 设定图片宽度
@@ -251,7 +253,7 @@ We have 6 (basline models with different settings on CIFAR-10) + 3 (advanced net
 \begin{itemize}
   \item Parallel: kaggle allows running 2 notebook at the same time, save time.
   \item Flexibility: we can adjust each model at any time.
-  \item Fault tolerance: If we run everything in 1 file, we will loose everything if 1 error pop up, wasting time quota of free gpu usage.
+  \item ERROR tolerance: If we run everything in 1 file, we will loose everything if 1 error pop up, wasting time quota of free gpu usage.
 \end{itemize}
 
 
