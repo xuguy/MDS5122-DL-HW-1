@@ -5,5 +5,3 @@
   - MNIST
     - raw
       - a series of MNIST file
-
-note that the 2 dataset file in this `dl-assign1/data` file will not be tracked.
